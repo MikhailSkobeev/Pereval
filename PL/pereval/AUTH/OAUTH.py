@@ -9,7 +9,7 @@ from PL.pereval.DateBase.DB_user import DB_user
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="login")
 
-SECRET_KEY = 'f35f5c3fd86b424b02f6274e71ad9a1de47c1463c85a34ce23fdc2e8db64e08c'
+SECRET_KEY = 'b28283c24a95401bb1a700299ffb31ba'
 ALGORITHM = 'HS256'
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
